@@ -1,3 +1,3 @@
 # Atividades
 
-Atividades propostas durante a disciplina de Fundamentos de Atendimento e Suporte ao Usuário.
+Atividades propostas durante a disciplina de Atendimento e Suporte ao Usuário.
