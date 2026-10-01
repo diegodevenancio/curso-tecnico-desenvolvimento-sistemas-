@@ -1,3 +1,3 @@
 # Projetos
 
-Projetos desenvolvidos durante a disciplina de Fundamentos de Integração de Dados.
+Projetos desenvolvidos durante a disciplina de Integração de Dados.
