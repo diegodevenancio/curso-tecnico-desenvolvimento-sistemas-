@@ -1,3 +1,3 @@
 # Projetos
 
-Projetos desenvolvidos durante a disciplina de Fundamentos de Fundamentos do Banco de Dados 2.
+Projetos desenvolvidos durante a disciplina de Fundamentos de Banco de Dados 2.
