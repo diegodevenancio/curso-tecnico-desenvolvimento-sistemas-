@@ -1,3 +1,3 @@
 # Atividades
 
-Atividades propostas durante a disciplina de Fundamentos de Programação Web 2.
+Atividades propostas durante a disciplina de Programação Web 2.
