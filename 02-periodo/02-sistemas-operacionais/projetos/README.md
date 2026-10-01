@@ -1,3 +1,3 @@
 # Projetos
 
-Projetos desenvolvidos durante a disciplina de Fundamentos de Sistemas Operacionais.
+Projetos desenvolvidos durante a disciplina de Sistemas Operacionais.
