@@ -1,3 +1,3 @@
 # Projetos
 
-Projetos desenvolvidos durante a disciplina de Fundamentos de Inglês Instrumental.
+Projetos desenvolvidos durante a disciplina de Inglês Instrumental.
