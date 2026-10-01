@@ -1,3 +1,3 @@
 # Atividades
 
-Atividades propostas durante a disciplina de Fundamentos de Estatística Básica.
+Atividades propostas durante a disciplina de Estatística Básica.
