@@ -1,3 +1,3 @@
 # Atividades
 
-Atividades propostas durante a disciplina de Fundamentos de Programação Mobile.
+Atividades propostas durante a disciplina de Programação Mobile.
