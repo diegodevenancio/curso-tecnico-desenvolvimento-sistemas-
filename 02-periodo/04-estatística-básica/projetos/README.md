@@ -1,3 +1,3 @@
 # Projetos
 
-Projetos desenvolvidos durante a disciplina de Fundamentos de Estatística Básica.
+Projetos desenvolvidos durante a disciplina de Estatística Básica.
