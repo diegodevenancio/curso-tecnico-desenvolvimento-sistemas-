@@ -1,3 +1,3 @@
 # Atividades
 
-Atividades propostas durante a disciplina de Fundamentos de Integração de Dados.
+Atividades propostas durante a disciplina de Integração de Dados.
