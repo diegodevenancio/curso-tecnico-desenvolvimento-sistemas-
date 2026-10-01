@@ -1,3 +1,3 @@
 # Atividades
 
-Atividades propostas durante a disciplina de Fundamentos de Comunicação e Oratória.
+Atividades propostas durante a disciplina de Comunicação e Oratória.
