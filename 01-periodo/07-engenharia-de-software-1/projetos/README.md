@@ -1,3 +1,3 @@
 # Projetos
 
-Projetos desenvolvidos durante a disciplina de Fundamentos de Engenharia de Software 1.
+Projetos desenvolvidos durante a disciplina de Engenharia de Software 1.
