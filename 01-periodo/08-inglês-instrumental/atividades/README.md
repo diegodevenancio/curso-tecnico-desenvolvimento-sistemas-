@@ -1,3 +1,3 @@
 # Atividades
 
-Atividades propostas durante a disciplina de Fundamentos de Inglês Instrumental.
+Atividades propostas durante a disciplina de Inglês Instrumental.
